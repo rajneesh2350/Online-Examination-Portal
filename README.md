@@ -1,6 +1,6 @@
 # Online-Examination-Portal
 
-ALL PROJECT FILES WITHIN raj-oep.rar
+ALL PROJECT FILES WITHIN raj-oep.rar (including database and snapshoot of project)
 
 Conduct online exam at your own at your school/college or institute.
 RAJNEESH2350@GMAIL.COM
